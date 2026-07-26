@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Registration Form</h1>
-    <label for="">Firstname</label>
+    <label for="firstname">Firstname</label>
+    <input type="text" id="firstname" name="firstname">
 </body>
 </html>
