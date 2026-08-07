@@ -6,7 +6,7 @@
     <title>Lovely</title>
 </head>
 <body>
-    <h1>Hello World</h1>
+    <h1>Hello World!</h1>
     <p>Ganda mo talaga love🫠🥰</p>
 </body>
 </html>
